@@ -1,0 +1,17 @@
+D:\C# projects\repos\RegistrationWebApplication\RegistrationWebApplication.Infrastructure\bin\Debug\net8.0\RegistrationWebApplication.Infrastructure.deps.json
+D:\C# projects\repos\RegistrationWebApplication\RegistrationWebApplication.Infrastructure\bin\Debug\net8.0\RegistrationWebApplication.Infrastructure.runtimeconfig.json
+D:\C# projects\repos\RegistrationWebApplication\RegistrationWebApplication.Infrastructure\bin\Debug\net8.0\RegistrationWebApplication.Infrastructure.dll
+D:\C# projects\repos\RegistrationWebApplication\RegistrationWebApplication.Infrastructure\bin\Debug\net8.0\RegistrationWebApplication.Infrastructure.pdb
+D:\C# projects\repos\RegistrationWebApplication\RegistrationWebApplication.Infrastructure\bin\Debug\net8.0\RegistrationWebApplication.Core.dll
+D:\C# projects\repos\RegistrationWebApplication\RegistrationWebApplication.Infrastructure\bin\Debug\net8.0\RegistrationWebApplication.Core.pdb
+D:\C# projects\repos\RegistrationWebApplication\RegistrationWebApplication.Infrastructure\obj\Debug\net8.0\RegistrationWebApplication.Infrastructure.csproj.AssemblyReference.cache
+D:\C# projects\repos\RegistrationWebApplication\RegistrationWebApplication.Infrastructure\obj\Debug\net8.0\RegistrationWebApplication.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# projects\repos\RegistrationWebApplication\RegistrationWebApplication.Infrastructure\obj\Debug\net8.0\RegistrationWebApplication.Infrastructure.AssemblyInfoInputs.cache
+D:\C# projects\repos\RegistrationWebApplication\RegistrationWebApplication.Infrastructure\obj\Debug\net8.0\RegistrationWebApplication.Infrastructure.AssemblyInfo.cs
+D:\C# projects\repos\RegistrationWebApplication\RegistrationWebApplication.Infrastructure\obj\Debug\net8.0\RegistrationWebApplication.Infrastructure.csproj.CoreCompileInputs.cache
+D:\C# projects\repos\RegistrationWebApplication\RegistrationWebApplication.Infrastructure\obj\Debug\net8.0\RegistrationWebApplication.Infrastructure.csproj.CopyComplete
+D:\C# projects\repos\RegistrationWebApplication\RegistrationWebApplication.Infrastructure\obj\Debug\net8.0\RegistrationWebApplication.Infrastructure.dll
+D:\C# projects\repos\RegistrationWebApplication\RegistrationWebApplication.Infrastructure\obj\Debug\net8.0\refint\RegistrationWebApplication.Infrastructure.dll
+D:\C# projects\repos\RegistrationWebApplication\RegistrationWebApplication.Infrastructure\obj\Debug\net8.0\RegistrationWebApplication.Infrastructure.pdb
+D:\C# projects\repos\RegistrationWebApplication\RegistrationWebApplication.Infrastructure\obj\Debug\net8.0\RegistrationWebApplication.Infrastructure.genruntimeconfig.cache
+D:\C# projects\repos\RegistrationWebApplication\RegistrationWebApplication.Infrastructure\obj\Debug\net8.0\ref\RegistrationWebApplication.Infrastructure.dll

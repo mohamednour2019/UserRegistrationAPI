@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RegistrationWebApplication.Presentation.API.props" />
+</Project>
